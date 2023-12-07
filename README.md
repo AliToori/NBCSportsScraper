@@ -1,6 +1,6 @@
-# NBCBot: NBC Sports Headlines Scraper
+# NBCSportsScraper: NBC Sports Headlines Scraper
 
-NBCBot is a custom scraper-bot for retrieving headlines from www.nbcsports.com, updating it and uploading to a Google Sheet to be easily accessible.
+NBCSportsScraper is a custom scraper-bot for retrieving headlines from www.nbcsports.com, updating it and uploading to a Google Sheet to be easily accessible.
 
 *******************************************************************************************
 
